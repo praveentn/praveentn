@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on face matching
+- 🔭 I’m currently working on face matching, multi-class (one vs rest) text classification etc.
 - 🌱 I’m currently learning Qiskit
 - 👯 I’m looking to collaborate on Quantum Computing
 - 🤔 I’m looking for help with Quantum Mechanics
