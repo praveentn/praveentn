@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on face matching, multi-class (one vs rest) text classification etc.
+- 🔭 I’m currently working on optimizing the review process using ML, NLProc etc.
 - 🌱 I’m currently learning Qiskit
 - 👯 I’m looking to collaborate on Quantum Computing
 - 🤔 I’m looking for help with Quantum Mechanics
 - 💬 Ask me about AI
 - 📫 How to reach me: I tweet here @iVanPeer
-- 😄 Pronouns: Praveen
+- 😄 Pronouns: Praveen | he/him
 - ⚡ Fun fact: I've played dice with the universe!
 
 <!--
