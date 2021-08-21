@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Quantum Mechanics
 - 💬 Ask me about AI
 - 📫 How to reach me: I tweet here [@iVanPeer](https://twitter.com/iVanPeer)
-- 😄 Pronouns: Ρɣανεεη | he/him
+- 😄 Pronouns: ρɣανεεη | he/him
 - ⚡ Fun fact: God is playing dice to obtain the a priori probabilities!
 - :alien: A sentient machine
 
