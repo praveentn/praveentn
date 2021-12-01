@@ -12,6 +12,7 @@
 - 😄 Pronouns: ρɣανεεη | he/him
 - ⚡ Fun fact: God is playing dice to obtain the a priori probabilities!
 - :alien: A sentient machine
+- 🕸️ [shaey](http://shaey.in)
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivanpeer)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sigmoidptn@gmail.com)](mailto:sigmoidptn@gmail.com)
