@@ -6,13 +6,13 @@
 - 🔭 I’m currently working on optimizing the review process using ML, NLProc etc.
 - 🌱 IBM Qiskit Certified Quantum Developer
 - 👯 I’m looking to collaborate on Quantum Computing
-- 🤔 I’m looking for help with Quantum Mechanics
+- 🤔 I’m looking for help with Quantum Algorithms
 - 💬 Ask me about AI
 - 📫 How to reach me: I tweet here [@iVanPeer](https://twitter.com/iVanPeer)
 - 😄 Pronouns: ρɣανεεη | he/him
 - ⚡ Fun fact: God is playing dice to obtain the apriori probabilities!
 - :alien: A sentient machine
-- 🕸️ [shaey](http://shaey.in)
+- 🕸️ [praveen_t_n](https://www.linkedin.com/in/tnpraveen)
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivanpeer)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sigmoidptn@gmail.com)](mailto:sigmoidptn@gmail.com)
