@@ -3,12 +3,12 @@
 ## Hi there :dolphin:
 
 
-- 🔭 I’m currently working on optimizing the review process using ML, NLProc etc.
+- 🔭 I’m currently working on optimizing and automating business processes using GenAI, ML, NLProc etc.
 - 🌱 IBM Qiskit Certified Quantum Developer
 - 👯 I’m looking to collaborate on Quantum Computing
 - 🤔 I’m looking for help with Quantum Algorithms
 - 💬 Ask me about AI
-- 📫 How to reach me: I tweet here [@iVanPeer](https://twitter.com/iVanPeer)
+- 📫 How to reach me: I tweet here [@23defrjssj](https://twitter.com/23defrjssj)
 - 😄 Pronouns: ρɣανεεη | he/him
 - ⚡ Fun fact: God is playing dice to obtain the apriori probabilities!
 - :alien: A sentient machine
