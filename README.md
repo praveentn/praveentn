@@ -4,11 +4,12 @@
 
 
 - 🔭 I’m currently working on optimizing and automating business processes using GenAI, ML, NLProc etc.
+- 🌱 Microsoft Certified Azure Solution Architect [AZ305]
 - 🌱 IBM Qiskit Certified Quantum Developer
-- 👯 I’m looking to collaborate on Quantum Computing
-- 🤔 I’m looking for help with Quantum Algorithms
+- 👯 I’m looking to collaborate on problem-solving
+- 🤔 I’m looking for help finding Planet X
 - 💬 Ask me about AI
-- 📫 How to reach me: I tweet here [@23defrjssj](https://twitter.com/23defrjssj)
+- 📫 How to reach me: I tweet here [@fofofxy](https://twitter.com/fofofxy)
 - 😄 Pronouns: ρɣανεεη | he/him
 - ⚡ Fun fact: God is playing dice to obtain the apriori probabilities!
 - :alien: A sentient machine
